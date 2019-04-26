@@ -1,0 +1,49 @@
+/* 段落{
+   字體顏色 紅色
+   字體大小 20px
+   背景顏色 淺灰色
+} */
+
+p{
+color:rgb(247, 247, 247);
+font-size: 20px;
+background-color:#ccc;
+
+}
+
+
+h1{
+color:chocolate;
+font-size: 50px;
+
+}
+.special{
+color:red;
+background-color:darkgreen;
+}
+
+
+nav{
+    background-color:#7FB3D5  ;
+    text-align: center;
+    font-size: 0;
+     
+}
+
+nav a{
+
+    color:#EAF2F8;
+    text-decoration:none;
+    display:inline-block;
+    padding:6px 20px;
+    font-size: 16px;
+    background-color: #7FB3D5;
+    transition:0.5s;
+
+}
+
+nav a:hover{
+
+    background-color:#212F3C;
+    
+}
